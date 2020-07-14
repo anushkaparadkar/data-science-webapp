@@ -13,6 +13,7 @@ The histograms were built using **Plotly Express.** It is a wrapper for Plotly.p
 ```
 Python for Data Analyses
 Jupyter Notebook
+Streamlit
 Numpy
 Pandas
 Plotly
