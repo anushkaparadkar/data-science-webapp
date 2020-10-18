@@ -1,7 +1,6 @@
-# Data Science Web App
+# Data Science Web App - Analyse motor vehicle collisions
 
 A simple web app to analyse motor vehicle collisions made using Streamlit.
-
 The web app was built using **Streamlit** .Streamlit is an open source framework used for building apps in python.
 
 The maps used in the web app were made using **Deck GL - Uber's open source visulization framework** .
@@ -26,4 +25,4 @@ Plotly
 
 ## Acknowledgments
 
-Thank you to the Coursera community .
+Thank you to the Coursera community.
